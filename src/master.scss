@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$default_color: yellow;
+
+h1{
+  color: $default_color;
+}
+
+p{
+  color: $default_color;
+}
+
+button{
+  color: $default_color;
+}
